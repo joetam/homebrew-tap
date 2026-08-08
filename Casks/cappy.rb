@@ -8,7 +8,7 @@ cask "cappy" do
   homepage "https://github.com/joetam/cappy"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Cappy.app"
 end
