@@ -1,8 +1,8 @@
 cask "cappy" do
-  version "0.1.12"
-  sha256 "c98c8e138f37ef6b58fb81692249c305f3b35ab048e33a13ca9d461ea7de844d"
+  version "0.1.13"
+  sha256 "666265cc312011c0bea311e5fe385ed8e7b1ccee7f22f18d463216115cd92ca1"
 
-  url "https://github.com/joetam/cappy/releases/download/v#{version}/Cappy-#{version}-macos-arm64.zip"
+  url "https://github.com/joetam/cappy/releases/download/v#{version}/Cappy-#{version}-macos-arm64.dmg"
   name "Cappy"
   desc "Track usage limits across coding accounts"
   homepage "https://github.com/joetam/cappy"
