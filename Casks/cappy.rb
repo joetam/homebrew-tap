@@ -1,6 +1,6 @@
 cask "cappy" do
-  version "0.1.21"
-  sha256 "e4a4b1d5cb79e9cb3f3eeb0da48160853b412b93b35f81371cfa109150fd876a"
+  version "0.1.22"
+  sha256 "5946838bf6a16c5e97d9f20f2faf02e79fdd94183a10773de4a5f91de3c3eb53"
 
   url "https://github.com/joetam/cappy/releases/download/v#{version}/Cappy-#{version}-macos-arm64.dmg"
   name "Cappy"
